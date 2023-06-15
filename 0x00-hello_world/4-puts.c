@@ -6,6 +6,7 @@
  * puts(): this code line for print that text
  * return: it's for taking back result 0
  */
+
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
