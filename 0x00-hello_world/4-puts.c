@@ -2,6 +2,8 @@
 
 /**
  * main - this function for printing that text
+ *
+ * return: Always 0
  */
 int main(void)
 {
