@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - this function for printing that text
+ * main - A program that a line with puts function
  *
- * return: Always 0
+ * return: Always 0 (Success)
  */
 int main(void)
 {
