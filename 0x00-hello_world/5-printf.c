@@ -1,5 +1,5 @@
 #include<stdio.h>
-/*
+/**
  *main -  a function named main
  *
  *Return: well return
