@@ -1,8 +1,8 @@
-#include <unistd.h>
-
-/*
+#include<unistd.h>
+/**
  * main - this is a function to print text in new line
- * retorn: this to retorn 1 always
+ *
+ * Return: this to retorn 1 always
  */
 int main(void)
 {
