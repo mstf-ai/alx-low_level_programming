@@ -2,7 +2,7 @@
 /**
  * main - a function named main
  *
- * return: This return 0 (Success)
+ * Return: This return 0 (Success)
  */
 int main(void)
 {
