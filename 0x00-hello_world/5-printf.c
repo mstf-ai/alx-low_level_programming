@@ -1,8 +1,8 @@
 #include<stdio.h>
 /*
- *main -  a C program that prints this text line followed by a new line.
+ *main -  a function named main
  *
- *Return: Always returns 0 (Success)
+ *Return: well return
  */
 int main(void)
 {
