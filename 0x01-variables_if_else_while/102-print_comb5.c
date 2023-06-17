@@ -7,11 +7,12 @@
  */
 int main(void)
 {
-int i, j;
+int i = 0;
 
-for (i = 0; i <= 98; i++)
+while (i < 100)
 {
-for (j = i + 1; j <= 99; j++)
+int j = i + 1;
+while (j < 100)
 {
 putchar(i / 10 + '0');
 putchar(i % 10 + '0');
@@ -24,7 +25,9 @@ if (i != 98 || j != 99)
 putchar(',');
 putchar(' ');
 }
+j++;
 }
+i++;
 }
 return (0);
 }
