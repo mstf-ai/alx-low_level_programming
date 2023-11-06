@@ -91,3 +91,4 @@ dog->name = malloc(sizeof(char) * (len1 + 1));
 
 	return (dog);
 }
+
